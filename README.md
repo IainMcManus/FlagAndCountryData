@@ -7,7 +7,7 @@ Acknowledgements/Legal
 ==================
 
 All of the included images are Copyright (c) 2013 Go Squared Ltd. http://www.gosquared.com/
-Go Squared have very generously provided the images under the MIT License. [Flags License](/Flags/License.txt)
+Go Squared have very generously provided the images under the MIT License. [Flags License](/flags/LICENSE.txt)
 
 What is included?
 ==================
