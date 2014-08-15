@@ -1,0 +1,737 @@
+[
+   {
+      "code":"AED",
+      "name":"Arab Emirates Dirham",
+      "locale":"ar_AE",
+   },
+   {
+      "code":"AFN",
+      "name":"Afghanistan Afghani",
+      "locale":"ps_AF",
+   },
+   {
+      "code":"ALL",
+      "name":"Albanian Lek",
+      "locale":"sq_AL",
+   },
+   {
+      "code":"AMD",
+      "name":"Armenian Dram",
+      "locale":"hy_AM",
+   },
+   {
+      "code":"ANG",
+      "name":"Netherlands Antillean Guilder",
+      "locale":"nl_CW",
+   },
+   {
+      "code":"AOA",
+      "name":"Angolan Kwanza",
+      "locale":"ln_AO",
+   },
+   {
+      "code":"ARS",
+      "name":"Argentine Peso",
+      "locale":"es_AR",
+   },
+   {
+      "code":"AUD",
+      "name":"Australian Dollar",
+      "locale":"en_AU",
+   },
+   {
+      "code":"AWG",
+      "name":"Aruban Guilder",
+      "locale":"nl_AW",
+   },
+   {
+      "code":"AZN",
+      "name":"Azerbaijan New Manat",
+      "locale":"az_Cyrl_AZ",
+   },
+   {
+      "code":"BAM",
+      "name":"Marka",
+      "locale":"bs_Cyrl_BA",
+   },
+   {
+      "code":"BBD",
+      "name":"Barbados Dollar",
+      "locale":"en_BB",
+   },
+   {
+      "code":"BDT",
+      "name":"Bangladeshi Taka",
+      "locale":"bn_BD",
+   },
+   {
+      "code":"BGN",
+      "name":"Bulgarian Lev",
+      "locale":"bg_BG",
+   },
+   {
+      "code":"BHD",
+      "name":"Bahraini Dinar",
+      "locale":"ar_BH",
+   },
+   {
+      "code":"BIF",
+      "name":"Burundi Franc",
+      "locale":"rn_BI",
+   },
+   {
+      "code":"BMD",
+      "name":"Bermudian Dollar",
+      "locale":"en_BM",
+   },
+   {
+      "code":"BND",
+      "name":"Brunei Dollar",
+      "locale":"ms_Latn_BN",
+   },
+   {
+      "code":"BOB",
+      "name":"Boliviano",
+      "locale":"es_BO",
+   },
+   {
+      "code":"BRL",
+      "name":"Brazilian Real",
+      "locale":"pt_BR",
+   },
+   {
+      "code":"BSD",
+      "name":"Bahamian Dollar",
+      "locale":"en_BS",
+   },
+   {
+      "code":"BTN",
+      "name":"Bhutan Ngultrum",
+      "locale":"dz_BT",
+   },
+   {
+      "code":"BWP",
+      "name":"Botswana Pula",
+      "locale":"en_BW",
+   },
+   {
+      "code":"BYR",
+      "name":"Belarussian Ruble",
+      "locale":"ru_BY",
+   },
+   {
+      "code":"BZD",
+      "name":"Belize Dollar",
+      "locale":"en_BZ",
+   },
+   {
+      "code":"CAD",
+      "name":"Canadian Dollar",
+      "locale":"fr_CA",
+   },
+   {
+      "code":"CDF",
+      "name":"Congo\/Kinshasa Franc",
+      "locale":"lu_CD",
+   },
+   {
+      "code":"CHF",
+      "name":"Swiss Franc",
+      "locale":"rm_CH",
+   },
+   {
+      "code":"CLP",
+      "name":"Chilean Peso",
+      "locale":"es_CL",
+   },
+   {
+      "code":"CNY",
+      "name":"Yuan Renminbi",
+      "locale":"ii_CN",
+   },
+   {
+      "code":"COP",
+      "name":"Colombian Peso",
+      "locale":"es_CO",
+   },
+   {
+      "code":"CRC",
+      "name":"Costa Rican Colon",
+      "locale":"es_CR",
+   },
+   {
+      "code":"CUP",
+      "name":"Cuban Peso",
+      "locale":"es_CU",
+   },
+   {
+      "code":"CVE",
+      "name":"Cape Verde Escudo",
+      "locale":"pt_CV",
+   },
+   {
+      "code":"CZK",
+      "name":"Czech Koruna",
+      "locale":"en_CZ",
+   },
+   {
+      "code":"DJF",
+      "name":"Djibouti Franc",
+      "locale":"ar_DJ",
+   },
+   {
+      "code":"DKK",
+      "name":"Danish Krone",
+      "locale":"da_DK",
+   },
+   {
+      "code":"DOP",
+      "name":"Dominican Peso",
+      "locale":"es_DO",
+   },
+   {
+      "code":"DZD",
+      "name":"Algerian Dinar",
+      "locale":"kab_DZ",
+   },
+   {
+      "code":"EGP",
+      "name":"Egyptian Pound",
+      "locale":"ar_EG",
+   },
+   {
+      "code":"ERN",
+      "name":"Eritrean Nakfa",
+      "locale":"ar_ER",
+   },
+   {
+      "code":"ETB",
+      "name":"Ethiopian Birr",
+      "locale":"om_ET",
+   },
+   {
+      "code":"EUR",
+      "name":"Euro",
+      "locale":"en_DE",
+   },
+   {
+      "code":"FJD",
+      "name":"Fiji Dollar",
+      "locale":"en_FJ",
+   },
+   {
+      "code":"GBP",
+      "name":"Pound Sterling",
+      "locale":"en_GG",
+   },
+   {
+      "code":"GEL",
+      "name":"Georgian Lari",
+      "locale":"ka_GE",
+   },
+   {
+      "code":"GHS",
+      "name":"Ghanaian Cedi",
+      "locale":"ak_GH",
+   },
+   {
+      "code":"GIP",
+      "name":"Gibraltar Pound",
+      "locale":"en_GI",
+   },
+   {
+      "code":"GMD",
+      "name":"Gambian Dalasi",
+      "locale":"en_GM",
+   },
+   {
+      "code":"GNF",
+      "name":"Guinea Franc",
+      "locale":"fr_GN",
+   },
+   {
+      "code":"GTQ",
+      "name":"Guatemalan Quetzal",
+      "locale":"es_GT",
+   },
+   {
+      "code":"GYD",
+      "name":"Guyana Dollar",
+      "locale":"en_GY",
+   },
+   {
+      "code":"HKD",
+      "name":"Hong Kong Dollar",
+      "locale":"zh_Hans_HK",
+   },
+   {
+      "code":"HNL",
+      "name":"Honduran Lempira",
+      "locale":"es_HN",
+   },
+   {
+      "code":"HRK",
+      "name":"Croatian Kuna",
+      "locale":"hr_HR",
+   },
+   {
+      "code":"HTG",
+      "name":"Haitian Gourde",
+      "locale":"fr_HT",
+   },
+   {
+      "code":"HUF",
+      "name":"Hungarian Forint",
+      "locale":"en_HU",
+   },
+   {
+      "code":"IDR",
+      "name":"Indonesian Rupiah",
+      "locale":"id_ID",
+   },
+   {
+      "code":"ILS",
+      "name":"Israeli New Shekel",
+      "locale":"ar_IL",
+   },
+   {
+      "code":"INR",
+      "name":"Indian Rupee",
+      "locale":"kok_IN",
+   },
+   {
+      "code":"IQD",
+      "name":"Iraqi Dinar",
+      "locale":"ar_IQ",
+   },
+   {
+      "code":"IRR",
+      "name":"Iranian Rial",
+      "locale":"fa_IR",
+   },
+   {
+      "code":"ISK",
+      "name":"Iceland Krona",
+      "locale":"en_IS",
+   },
+   {
+      "code":"JMD",
+      "name":"Jamaican Dollar",
+      "locale":"en_JM",
+   },
+   {
+      "code":"JOD",
+      "name":"Jordanian Dinar",
+      "locale":"ar_JO",
+   },
+   {
+      "code":"JPY",
+      "name":"Japanese Yen",
+      "locale":"ja_JP",
+   },
+   {
+      "code":"KES",
+      "name":"Kenyan Shilling",
+      "locale":"saq_KE",
+   },
+   {
+      "code":"KGS",
+      "name":"Som",
+      "locale":"ru_KG",
+   },
+   {
+      "code":"KHR",
+      "name":"Kampuchean Riel",
+      "locale":"km_KH",
+   },
+   {
+      "code":"KMF",
+      "name":"Comoros Franc",
+      "locale":"ar_KM",
+   },
+   {
+      "code":"KPW",
+      "name":"North Korean Won",
+      "locale":"ko_KP",
+   },
+   {
+      "code":"KRW",
+      "name":"Korean Won",
+      "locale":"ko_KR",
+   },
+   {
+      "code":"KWD",
+      "name":"Kuwaiti Dinar",
+      "locale":"ar_KW",
+   },
+   {
+      "code":"KYD",
+      "name":"Cayman Islands Dollar",
+      "locale":"en_KY",
+   },
+   {
+      "code":"KZT",
+      "name":"Kazakhstan Tenge",
+      "locale":"kk_Cyrl_KZ",
+   },
+   {
+      "code":"LAK",
+      "name":"Lao Kip",
+      "locale":"lo_LA",
+   },
+   {
+      "code":"LBP",
+      "name":"Lebanese Pound",
+      "locale":"ar_LB",
+   },
+   {
+      "code":"LKR",
+      "name":"Sri Lanka Rupee",
+      "locale":"ta_LK",
+   },
+   {
+      "code":"LRD",
+      "name":"Liberian Dollar",
+      "locale":"vai_Latn_LR",
+   },
+   {
+      "code":"LTL",
+      "name":"Lithuanian Litas",
+      "locale":"en_LT",
+   },
+   {
+      "code":"LVL",
+      "name":"Latvian Lats",
+      "locale":"en_LV",
+   },
+   {
+      "code":"LYD",
+      "name":"Libyan Dinar",
+      "locale":"ar_LY",
+   },
+   {
+      "code":"MAD",
+      "name":"Moroccan Dirham",
+      "locale":"ar_MA",
+   },
+   {
+      "code":"MDL",
+      "name":"Moldovan Leu",
+      "locale":"ru_MD",
+   },
+   {
+      "code":"MGA",
+      "name":"Malagasy Ariary",
+      "locale":"mg_MG",
+   },
+   {
+      "code":"MKD",
+      "name":"Denar",
+      "locale":"sq_MK",
+   },
+   {
+      "code":"MMK",
+      "name":"Myanmar Kyat",
+      "locale":"my_MM",
+   },
+   {
+      "code":"MNT",
+      "name":"Mongolian Tugrik",
+      "locale":"mn_Cyrl_MN",
+   },
+   {
+      "code":"MOP",
+      "name":"Macau Pataca",
+      "locale":"zh_Hant_MO",
+   },
+   {
+      "code":"MRO",
+      "name":"Mauritanian Ouguiya",
+      "locale":"ar_MR",
+   },
+   {
+      "code":"MUR",
+      "name":"Mauritius Rupee",
+      "locale":"en_MU",
+   },
+   {
+      "code":"MWK",
+      "name":"Malawi Kwacha",
+      "locale":"en_MW",
+   },
+   {
+      "code":"MXN",
+      "name":"Mexican Nuevo Peso",
+      "locale":"es_MX",
+   },
+   {
+      "code":"MYR",
+      "name":"Malaysian Ringgit",
+      "locale":"ms_Latn_MY",
+   },
+   {
+      "code":"MZN",
+      "name":"Mozambique Metical",
+      "locale":"mgh_MZ",
+   },
+   {
+      "code":"NAD",
+      "name":"Namibian Dollar",
+      "locale":"naq_NA",
+   },
+   {
+      "code":"NGN",
+      "name":"Nigerian Naira",
+      "locale":"ha_Latn_NG",
+   },
+   {
+      "code":"NIO",
+      "name":"Nicaraguan Cordoba Oro",
+      "locale":"es_NI",
+   },
+   {
+      "code":"NOK",
+      "name":"Norwegian Krone",
+      "locale":"nn_NO",
+   },
+   {
+      "code":"NPR",
+      "name":"Nepalese Rupee",
+      "locale":"ne_NP",
+   },
+   {
+      "code":"NZD",
+      "name":"New Zealand Dollar",
+      "locale":"en_NZ",
+   },
+   {
+      "code":"OMR",
+      "name":"Omani Rial",
+      "locale":"ar_OM",
+   },
+   {
+      "code":"PAB",
+      "name":"Panamanian Balboa",
+      "locale":"es_PA",
+   },
+   {
+      "code":"PEN",
+      "name":"Peruvian Nuevo Sol",
+      "locale":"es_PE",
+   },
+   {
+      "code":"PGK",
+      "name":"Papua New Guinea Kina",
+      "locale":"en_PG",
+   },
+   {
+      "code":"PHP",
+      "name":"Philippine Peso",
+      "locale":"es_PH",
+   },
+   {
+      "code":"PKR",
+      "name":"Pakistan Rupee",
+      "locale":"pa_Arab_PK",
+   },
+   {
+      "code":"PLN",
+      "name":"Polish Zloty",
+      "locale":"en_PL",
+   },
+   {
+      "code":"PYG",
+      "name":"Paraguay Guarani",
+      "locale":"es_PY",
+   },
+   {
+      "code":"QAR",
+      "name":"Qatari Rial",
+      "locale":"ar_QA",
+   },
+   {
+      "code":"RON",
+      "name":"Romanian New Leu",
+      "locale":"en_RO",
+   },
+   {
+      "code":"RSD",
+      "name":"Dinar",
+      "locale":"sr_Latn_RS",
+   },
+   {
+      "code":"RUB",
+      "name":"Russian Ruble",
+      "locale":"ru_RU",
+   },
+   {
+      "code":"RWF",
+      "name":"Rwanda Franc",
+      "locale":"rw_RW",
+   },
+   {
+      "code":"SAR",
+      "name":"Saudi Riyal",
+      "locale":"ar_SA",
+   },
+   {
+      "code":"SBD",
+      "name":"Solomon Islands Dollar",
+      "locale":"en_SB",
+   },
+   {
+      "code":"SCR",
+      "name":"Seychelles Rupee",
+      "locale":"en_SC",
+   },
+   {
+      "code":"SDG",
+      "name":"Sudanese Pound",
+      "locale":"ar_SD",
+   },
+   {
+      "code":"SEK",
+      "name":"Swedish Krona",
+      "locale":"sv_SE",
+   },
+   {
+      "code":"SGD",
+      "name":"Singapore Dollar",
+      "locale":"ms_Latn_SG",
+   },
+   {
+      "code":"SLL",
+      "name":"Sierra Leone Leone",
+      "locale":"en_SL",
+   },
+   {
+      "code":"SOS",
+      "name":"Somali Shilling",
+      "locale":"ar_SO",
+   },
+   {
+      "code":"SRD",
+      "name":"Surinam Dollar",
+      "locale":"nl_SR",
+   },
+   {
+      "code":"STD",
+      "name":"Dobra",
+      "locale":"pt_ST",
+   },
+   {
+      "code":"SYP",
+      "name":"Syrian Pound",
+      "locale":"ar_SY",
+   },
+   {
+      "code":"SZL",
+      "name":"Swaziland Lilangeni",
+      "locale":"en_SZ",
+   },
+   {
+      "code":"THB",
+      "name":"Thai Baht",
+      "locale":"th_TH",
+   },
+   {
+      "code":"TJS",
+      "name":"Tajik Somoni",
+      "locale":"tg_Cyrl_TJ",
+   },
+   {
+      "code":"TMT",
+      "name":"Manat",
+      "locale":"tk_Latn_TM",
+   },
+   {
+      "code":"TND",
+      "name":"Tunisian Dollar",
+      "locale":"ar_TN",
+   },
+   {
+      "code":"TOP",
+      "name":"Tongan Pa'anga",
+      "locale":"to_TO",
+   },
+   {
+      "code":"TRY",
+      "name":"Turkish Lira",
+      "locale":"tr_TR",
+   },
+   {
+      "code":"TTD",
+      "name":"Trinidad and Tobago Dollar",
+      "locale":"en_TT",
+   },
+   {
+      "code":"TWD",
+      "name":"Taiwan Dollar",
+      "locale":"zh_Hant_TW",
+   },
+   {
+      "code":"TZS",
+      "name":"Tanzanian Shilling",
+      "locale":"sw_TZ",
+   },
+   {
+      "code":"UAH",
+      "name":"Ukraine Hryvnia",
+      "locale":"ru_UA",
+   },
+   {
+      "code":"UGX",
+      "name":"Uganda Shilling",
+      "locale":"teo_UG",
+   },
+   {
+      "code":"USD",
+      "name":"US Dollar",
+      "locale":"en_US_POSIX",
+   },
+   {
+      "code":"UYU",
+      "name":"Uruguayan Peso",
+      "locale":"es_UY",
+   },
+   {
+      "code":"UZS",
+      "name":"Uzbekistan Sum",
+      "locale":"uz_Cyrl_UZ",
+   },
+   {
+      "code":"VEF",
+      "name":"Venezuelan Bolivar",
+      "locale":"es_VE",
+   },
+   {
+      "code":"VND",
+      "name":"Vietnamese Dong",
+      "locale":"vi_VN",
+   },
+   {
+      "code":"VUV",
+      "name":"Vanuatu Vatu",
+      "locale":"en_VU",
+   },
+   {
+      "code":"WST",
+      "name":"Samoan Tala",
+      "locale":"en_WS",
+   },
+   {
+      "code":"YER",
+      "name":"Yemeni Rial",
+      "locale":"ar_YE",
+   },
+   {
+      "code":"ZAR",
+      "name":"South African Rand",
+      "locale":"af_ZA",
+   },
+   {
+      "code":"ZMW",
+      "name":"Zambian Kwacha",
+      "locale":"en_ZM",
+   }
+]
