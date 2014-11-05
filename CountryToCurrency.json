@@ -275,6 +275,11 @@
       "currencyCode":"FJD"
    },
    {
+      "countryCode":"FK",
+      "countryName":"Falkland Islands",
+      "currencyCode":"FKP"
+   },
+   {
       "countryCode":"FM",
       "countryName":"Micronesia",
       "currencyCode":"USD"
@@ -298,6 +303,11 @@
       "countryCode":"GE",
       "countryName":"Georgia",
       "currencyCode":"GEL"
+   },
+   {
+      "countryCode":"GG",
+      "countryName":"Guernsey",
+      "currencyCode":"GGP"
    },
    {
       "countryCode":"GI",
@@ -488,6 +498,11 @@
       "countryCode":"LK",
       "countryName":"Sri Lanka",
       "currencyCode":"LKR"
+   },
+   {
+      "countryCode":"LS",
+      "countryName":"Lesotho",
+      "currencyCode":"LSL"
    },
    {
       "countryCode":"LR",
@@ -760,6 +775,11 @@
       "currencyCode":"SGD"
    },
    {
+      "countryCode":"SH",
+      "countryName":"Saint Helena",
+      "currencyCode":"SHP"
+   },
+   {
       "countryCode":"SI",
       "countryName":"Slovenia",
       "currencyCode":"EUR"
@@ -933,5 +953,10 @@
       "countryCode":"ZA",
       "countryName":"South Africa",
       "currencyCode":"ZAR"
+   },
+   {
+      "countryCode":"ZW",
+      "countryName":"Zimbabwe",
+      "currencyCode":"USD"
    }
 ]
